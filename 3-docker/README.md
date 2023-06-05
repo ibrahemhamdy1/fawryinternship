@@ -249,3 +249,14 @@
     To run multiple copies of a Compose file on the same host, you can set a custom project name using the `-p` or `--project-name` command-line option or by using the `COMPOSE_PROJECT_NAME` environment variable.
 
 These interview questions can also be helpful in your viva (oral) examination.
+
+
+44. **Docker add and copy
+
+    In the context of file operations, the terms "copy" and "add" are often used interchangeably, but they can have slightly different meanings depending on the context:
+
+    1. Copy: It refers to the action of duplicating a file or directory. When you copy a file, you create an exact replica of the original file with a new name or in a different location. Both the original file and the copied file exist separately.
+
+    2. Add: Adding a file typically means including it in a specific location or context. In software development, the term "add" often refers to adding a file to a version control system like Git, which tracks changes to files over time. When you add a file to a Git repository, you are including it in the repository's history and making it part of the project.
+
+    To summarize, "copy" involves creating a duplicate of a file, while "add" typically refers to including a file in a specific context, such as adding it to a version control system.
